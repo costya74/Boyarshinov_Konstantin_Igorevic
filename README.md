@@ -51,7 +51,7 @@ How to reach me costya74@bk.ru, 6355152@gmail.com
  - Основы Figma
 - Основы языка программирования Phyton
 
-Имею [сертификаты](https://drive.google.com/drive/folders/1Hn6pJKzmpVKorXBgDISqc4MyX_QtYHQo) о прохождении курсов на QA, на которых были практические работы тестирования сайтов.
+Имею [диплом и сертификаты](https://drive.google.com/drive/folders/1Hn6pJKzmpVKorXBgDISqc4MyX_QtYHQo) о прохождении профессиональной переподготовки (QA), на которых были практические работы тестирования сайтов.
 
 2. ####  ООО "Солнце" г. Пермь (с 04.2015г. - более 7 лет)
 
